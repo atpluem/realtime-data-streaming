@@ -9,4 +9,4 @@
 <img src="./images/Real-time-data-stream.png" width="100%">
 
 ## Apache NiFi pipeline
-<img src="./images/NiFi_pipeline.png" width="100%">
+<img src="./images/NiFi_pipeline.png" width="80%">
